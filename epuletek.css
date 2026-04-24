@@ -1,4 +1,4 @@
-* {
+body {
 	background-color: #f7eddc;
 }
 
@@ -15,12 +15,24 @@
 .kepfelirat
 {
 	text-align: center;
+	font-family;
 }
 
 .galeriakep
 {
 	margin: auto;
 	display: block;
+	height: 300px;
 }
 
-#tortenet {}
+#tortenet {
+	font-weight: bold;
+}
+
+a {
+	font-weight: bold;
+}
+
+.img-thumbnail-galeriakep {
+	height: 300px;
+}
