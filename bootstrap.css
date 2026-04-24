@@ -4383,8 +4383,8 @@ input[type="button"].btn-block {
 }
 
 .card > hr {
-  margin-right: 0;
-  margin-left: 0;
+  margin-right: 20;
+  margin-left: 20;
 }
 
 .card > .list-group:first-child .list-group-item:first-child {
