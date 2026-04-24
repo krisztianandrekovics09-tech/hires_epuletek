@@ -29,3 +29,11 @@ a {
 	display: block;
 	height: 300px;
 }
+
+.centrecenter {
+	text-align: center;
+}
+
+.keret {
+	border: solid 3px color #7a5c3e;
+}
